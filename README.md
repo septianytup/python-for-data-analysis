@@ -1,26 +1,70 @@
-# MySkill: Python for Data Analysis
+# MySkill – Python for Data Analysis
 
-After understanding various concepts in data analytics in Python and applying several techniques, including:
+This repository highlights my practical learning journey in Python for data analysis. It demonstrates how core analytical concepts and techniques are applied to transform raw data into meaningful insights for business-oriented scenarios.
 
-- Data Import
-- Data Query
-- Data Cleaning
-- Data Binning & Case Statement
-- Descriptive Statistics & Grouping
-- Data Visualization & Correlation
-
-These techniques help in processing, analyzing, and visualizing data more effectively. These concepts are then applied to various common use cases in business and organizational analysis, such as:
-
-1. [User Retention Analysis](https://medium.com/@septianytup/python-user-retention-analysis-c134b903659b "User Retention Analysis")
-2. [User Segmentation](https://medium.com/@septianytup/python-user-segmentation-6fa49f74e2b7 "User Segmentation")
-3. [Market Basket Analysis](https://medium.com/@septianytup/python-market-basket-analysis-692240c54fae "Market Basket Analysis")
+The project focuses on building end-to-end workflows, from data preparation to analysis and visualization, to support data-driven understanding and decision-making.
 
 ---
-### 📫 Contact Information
-For further questions or discussions about this project, feel free to reach out:
 
-Email: tupseptiany@gmail.com
+## Core Skills & Techniques
 
-LinkedIn: https://linkedin.com/in/septianytup
+This project covers a range of essential data analysis skills, including:
 
-If you have suggestions, feedback, or want to collaborate, don't hesitate to contact me. 😊
+- Importing and loading datasets  
+- Querying and filtering data  
+- Data cleaning and preprocessing  
+- Data binning and conditional logic (case statements)  
+- Descriptive statistics and grouping  
+- Data visualization  
+- Correlation analysis  
+
+These techniques are used to explore data, uncover patterns, and support structured analytical thinking.
+
+---
+
+## Applied Business Use Cases
+
+The skills and methods in this repository are applied to several common business analysis scenarios:
+
+1. **User Retention Analysis**  
+   https://medium.com/@septianytup/python-user-retention-analysis-c134b903659b  
+
+2. **User Segmentation**  
+   https://medium.com/@septianytup/python-user-segmentation-6fa49f74e2b7  
+
+3. **Market Basket Analysis**  
+   https://medium.com/@septianytup/python-market-basket-analysis-692240c54fae  
+
+These case studies show how Python-based analysis can be used to understand customer behavior, segment users effectively, and identify relationships between products.
+
+---
+
+## Tools & Libraries
+
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib / Seaborn  
+- Jupyter Notebook  
+
+---
+
+## Key Learning Outcomes
+
+Through this project, I developed and strengthened my ability to:
+
+- Prepare and clean raw datasets for analysis  
+- Perform exploratory data analysis (EDA)  
+- Apply statistical summaries and grouping techniques  
+- Create analytical features for business use cases  
+- Visualize trends, patterns, and relationships  
+- Translate analytical results into clear, business-relevant insights  
+
+---
+
+## 📫 Contact
+
+For questions, feedback, or collaboration:
+
+- Email: tupseptiany@gmail.com  
+- LinkedIn: https://linkedin.com/in/septianytup  
